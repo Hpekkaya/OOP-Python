@@ -1,0 +1,39 @@
+Index: ../../Lessons/00General/13HighLowGame/main py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Lessons/00General/13HighLowGame/main py b/../../Lessons/00General/13HighLowGame/main py
+new file mode 100644
+--- /dev/null	(date 1709601698278)
++++ b/../../Lessons/00General/13HighLowGame/main py	(date 1709601698278)
+@@ -0,0 +1,29 @@
++from art import art
++
++# Display art
++
++
++#  Generate random account from the data
++
++
++# Format the account data inta  format
++
++
++# Ask users for guess
++
++
++#  Check if user correct
++# Get follower count of each account
++# Use if statemnt to check if user is correct
++
++
++# Give user feedback on their guess
++
++
++# Score keeping
++
++
++# Make the game repeatable
++
++
++# Making account at position B become the next account at position A
