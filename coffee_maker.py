@@ -12,6 +12,7 @@ class CoffeeMaker:
         print(f"Water  : {self.resources["water"]} ml")
         print(f"Milk   : {self.resources["milk"]} ml")
         print(f"Coffee : {self.resources["coffee"]} gr")
+        
 
     def is_resource_sufficient(self, drink):
         """Returns True when order can be made, False if ingredients are insufficient."""
